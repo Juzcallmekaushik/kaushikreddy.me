@@ -43,3 +43,20 @@
 <h3>
 Features:
 </h3>
+<p>
+1. Contact Form: Easily connect with visitors.
+</br>
+2. Mobile Ready: Responsive across all devices.
+</br>
+3. Projects: Showcase work and achievements.
+</br>
+4. Skills with Links: Highlight expertise with resources.
+</br>
+5. Copyright: Dynamic footer copyright notice.
+</br>
+6. Smooth Animations: Engaging transitions and effects.
+</br>
+7. Customizable Design: Flexible, theme-based design system.
+</br>
+8. Social Media Links: Connect with online profiles.
+</p>

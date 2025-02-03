@@ -64,6 +64,7 @@ Features:
 <h1>
 Setup:
 </h1>
+<h5><strong>To clone and run this website, you'll need to paste the following steps in your command line:</strong></h5>
 
 ```bash
 # Clone this repository

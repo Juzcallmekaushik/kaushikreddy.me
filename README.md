@@ -39,10 +39,9 @@
   <img src="./public/Images/contact-page.png" alt="Front Page">
 <p>
 
-<hr />
-<h3>
+<h1>
 Features:
-</h3>
+</h1>
 <p>
 1. Contact Form: Easily connect with visitors.
 </br>
@@ -60,3 +59,25 @@ Features:
 </br>
 8. Social Media Links: Connect with online profiles.
 </p>
+
+
+<h1>
+Setup:
+</h1>
+
+```bash
+# Clone this repository
+$ git clone https://github.com/karlgrossmann/two-column-portfolio
+
+# Go into the repository
+$ cd two-column-portfolio
+
+# Install dependencies
+$ yarn install
+
+# Run the app
+$ yarn dev
+
+# Build the app
+$ yarn build
+```

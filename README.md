@@ -68,10 +68,10 @@ Setup:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/karlgrossmann/two-column-portfolio
+$ git clone https://github.com/Juzcallmekaushik/kaushikreddy.me
 
 # Go into the repository
-$ cd two-column-portfolio
+$ cd kaushikreddy.me
 
 # Install dependencies
 $ yarn install

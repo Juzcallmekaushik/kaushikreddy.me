@@ -40,11 +40,3 @@
   <img src="./public/Images/home-page.png" alt="Front Page"/>
   <img src="./public/Images/contact-page.png" alt="Front Page">
 <p>
-
-<hr />
-<h3>
-<<<<<<< Updated upstream
-</h3>
-=======
-</h3>
->>>>>>> Stashed changes

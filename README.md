@@ -68,10 +68,10 @@ Setup:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Juzcallmekaushik/kaushikreddy.me
+$ git clone https://github.com/karlgrossmann/two-column-portfolio
 
 # Go into the repository
-$ cd kaushikreddy.me
+$ cd two-column-portfolio
 
 # Install dependencies
 $ yarn install
@@ -82,3 +82,21 @@ $ yarn dev
 # Build the app
 $ yarn build
 ```
+> **Note:**
+> After running the app the live version of it is available at `localhost:3000`.
+
+<h1>
+Credits
+</h1>
+This software uses the following open source packages:
+
+- [Next.js](https://nextjs.org)
+- [Tailwind CSS](https://tailwindcss.com)
+- [Heroicons](https://heroicons.com)
+
+- <strong>The inspiration for the design comes from [Sarah Dayan](https://www.sarahdayan.dev/) and [Brittany Chiang](https://brittanychiang.com/).</strong>
+
+<h2>
+License
+</h2>
+GNU GENERAL PUBLIC LICENSE 3.0

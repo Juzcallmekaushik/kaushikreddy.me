@@ -98,10 +98,10 @@ export default function Contact() {
                             className="flex flex-row content-center justify-center"
                         >
                             <img 
-                                src="/logos/instagram-mark-white.png" 
+                                src="/logos/instagram.png" 
                                 alt="Instagram Logo" 
-                                width="22" 
-                                height="22" 
+                                width="40" 
+                                height="40" 
                                 className="object-contain object-top mr-3" 
                             />
                         </a>

@@ -10,7 +10,7 @@ module.exports = {
       transparent: 'transparent',
       current: 'currentColor',
 
-      'primary': {
+      primary: {
         100: '#194bff',
         200: '#525dff',
         300: '#7170ff',
@@ -18,26 +18,27 @@ module.exports = {
         500: '#a197ff',
         600: '#b6abff'
       },
+
       'surface': {
-        100: '#07022e',
-        200: '#1f1e42',
-        300: '#524f6e',
+        100: '#07022e', // Dark mode: Deepest navy
+        200: '#1f1e42', // Dark mode: Dark indigo
+        300: '#524f6e', // Dark mode: Soft purple-gray
         400: '#524f6e',
         500: '#6d6a84',
         600: '#89869c',
         700: '#000000'
       },
+
       'on-background': '#ffffff',
     },
     extend: {
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
-        'gradient-conic':
-          'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
+        'gradient-conic': 'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },
     },
     fontFamily: {
-      'body': ['"Inter"', 'Helvetica', 'sans-serif']
+      body: ['"Inter"', 'Helvetica', 'sans-serif']
     }
   },
   plugins: [],

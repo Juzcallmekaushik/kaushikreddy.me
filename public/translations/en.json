@@ -73,7 +73,7 @@
             {
                 "name": "Augmented Learning System",
                 "framework": "python",
-                "description": "ALS is a voice-controlled desktop assistant for AI-powered writing and system management.",
+                "description": "ALS is a voice-controlled desktop assistant for AI-powered writing and system management. It helps automate tasks and manage your system using voice commands.",
                 "href": "https://github.com/Juzcallmekaushik/Augmented-Learning-System",
                 "stars": "1"
             },
@@ -85,7 +85,7 @@
                 "stars": "4"
             },
             {
-                "name": "Developer Portfolio",
+                "name": "Minimalistic Portfolio",
                 "framework": "Next.js",
                 "description": "My personal portfolio, built with Next.js and Tailwind CSS, showcases my work and skills in a clean, responsive, and modern two-column layout, designed for optimal user experience.",
                 "href": "https://github.com/Juzcallmekaushik/kaushikreddy.me/",

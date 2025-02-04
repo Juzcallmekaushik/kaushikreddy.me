@@ -73,7 +73,7 @@ export default function Contact() {
                     >
                         Get in touch
                     </h2>
-                    <p className="text-red-300 mb-6 text-center md:text-left">
+                    <p className="text-red-300 mb-3 text-center md:text-left">
                         Got a project or just want to chat? Reach out via the form or socials!
                     </p>
                     <div className="flex flex-row justify-center md:justify-start">
@@ -81,13 +81,13 @@ export default function Contact() {
                             href="https://github.com/Juzcallmekaushik" 
                             target="_blank" 
                             rel="noopener noreferrer" 
-                            className="mr-2 flex flex-row content-center justify-center"
+                            className="flex flex-row content-center justify-center"
                         >
                             <img 
-                                src="/logos/github-mark-white.png" 
+                                src="/logos/github.png" 
                                 alt="GitHub Logo" 
-                                width="20" 
-                                height="20" 
+                                width="25" 
+                                height="25" 
                                 className="object-contain object-top mr-1" 
                             />
                         </a>
@@ -100,9 +100,9 @@ export default function Contact() {
                             <img 
                                 src="/logos/instagram.png" 
                                 alt="Instagram Logo" 
-                                width="40" 
-                                height="40" 
-                                className="object-contain object-top mr-3" 
+                                width="25" 
+                                height="25" 
+                                className="object-contain object-top mr-1" 
                             />
                         </a>
                         <a 
@@ -112,11 +112,11 @@ export default function Contact() {
                             className="flex flex-row content-center justify-center"
                         >
                             <img 
-                                src="/logos/discord-mark-white.png" 
+                                src="/logos/discord.png" 
                                 alt="Discord Logo" 
                                 width="25" 
-                                height="22" 
-                                className="object-contain object-top mr-3" 
+                                height="25" 
+                                className="object-contain object-top mr-1" 
                             />
                         </a>
                     </div>

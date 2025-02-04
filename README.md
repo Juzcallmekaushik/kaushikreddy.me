@@ -58,6 +58,12 @@ Features:
 7. Customizable Design: Flexible, theme-based design system.
 </br>
 8. Social Media Links: Connect with online profiles.
+</br>
+9. Seperate Pages if you have more than 4 projects or design covers.
+</br>
+10. Design covers can now be maximized.
+</br>
+11. "Scroll to Top" Button is now available.
 </p>
 
 

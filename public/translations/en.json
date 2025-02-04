@@ -1,103 +1,97 @@
-{
-    "general": {
-        "name": "Kaushik Reddy",
-        "headline": "Fullstack Developer & Graphic Designer",
-        "about": [
-            "Hey there! 👋",
-            "I'm an 18-year-old passionate about graphic design, programming, and web development. I love blending creativity with technology, whether it's crafting visually stunning graphics or bringing ideas to life through code.",
-            "With every project, I strive for excellence, pushing boundaries and inspiring others along the way. Join me on this journey of innovation and creativity as we explore the endless possibilities of design and technology together!"   
+    {
+        "general": {
+            "name": "Kaushik Reddy",
+            "headline": "Fullstack Developer & Graphic Designer",
+            "about": [
+                "Hey there! 👋",
+                "I'm an 18-year-old passionate about graphic design, programming, and web development. I love blending creativity with technology, whether it's crafting visually stunning graphics or bringing ideas to life through code.",
+                "With every project, I strive for excellence, pushing boundaries and inspiring others along the way. Join me on this journey of innovation and creativity as we explore the endless possibilities of design and technology together!"
+            ],
+            "socials": {
+                "email": "kaushikreddy1206@mail.com",
+                "instagram": "https://www.Instagram.com/juzcallmekaushik",
+                "github": "https://github.com/Juzcallmekaushik",
+                "discord": "https://discord.com/users/838682557976936509"
+            }
+        },
+        "skills": [
+            {
+                "title": "FRAMEWORKS & LANGUAGES",
+                "skills": [
+                    { "name": "Python", "link": "https://www.python.org/" },
+                    { "name": "JavaScript", "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript" },
+                    { "name": "TypeScript", "link": "https://www.typescriptlang.org/" },
+                    { "name": "NextJS", "link": "https://nextjs.org/" },
+                    { "name": "React", "link": "https://react.dev/" },
+                    { "name": "HTML", "link": "https://developer.mozilla.org/en-US/docs/Web/HTML" },
+                    { "name": "Figma", "link": "https://www.figma.com/" },
+                    { "name": "CSS", "link": "https://developer.mozilla.org/en-US/docs/Web/CSS" },
+                    { "name": "Node.js", "link": "https://nodejs.org/" }
+                ]
+            },
+            {
+                "title": "OS AND CLOUD SERVICES",
+                "skills": [
+                    { "name": "Microsoft Windows", "link": "https://www.microsoft.com/en-us/windows" },
+                    { "name": "Android", "link": "https://www.android.com/" },
+                    { "name": "Linux", "link": "https://www.linux.org/" },
+                    { "name": "GitHub Codespaces", "link": "https://github.com/features/codespaces" },
+                    { "name": "MongoDB Atlas", "link": "https://www.mongodb.com/atlas" }
+                ]
+            },
+            {
+                "title": "BROWSERS AND IDE",
+                "skills": [
+                    { "name": "Visual Studio Code", "link": "https://code.visualstudio.com/" },
+                    { "name": "Arc Browser", "link": "https://arc.net/" },
+                    { "name": "Polypane", "link": "https://polypane.app/" },
+                    { "name": "IntelliJ IDEA", "link": "https://www.jetbrains.com/idea/" },
+                    { "name": "WebStorm", "link": "https://www.jetbrains.com/webstorm/" },
+                    { "name": "Eclipse", "link": "https://www.eclipse.org/" }
+                ]
+            }
         ],
-        "socials": {
-            "email": "kaushikreddy1206@mail.com",
-            "instagram": "https://www.Instagram.com/juzcallmekaushik",
-            "github": "https://github.com/Juzcallmekaushik",
-            "discord": "https://discord.com/users/838682557976936509"
-        }
-    },
-    "skills": [
-        {
-            "title": "FRAMEWORKS & LANGUAGES",
-            "skills": [
-                { "name": "Python", "link": "https://www.python.org/" },
-                { "name": "JavaScript", "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript" },
-                { "name": "TypeScript", "link": "https://www.typescriptlang.org/" },
-                { "name": "NextJS", "link": "https://nextjs.org/" },
-                { "name": "React", "link": "https://react.dev/" },
-                { "name": "HTML", "link": "https://developer.mozilla.org/en-US/docs/Web/HTML" },
-                { "name": "Figma", "link": "https://www.figma.com/" },
-                { "name": "CSS", "link": "https://developer.mozilla.org/en-US/docs/Web/CSS" },
-                { "name": "Node.js", "link": "https://nodejs.org/" }
-            ]
-        },
-        {
-            "title": "OS AND CLOUD SERVICES",
-            "skills": [
-                { "name": "Microsoft Windows", "link": "https://www.microsoft.com/en-us/windows" },
-                { "name": "Android", "link": "https://www.android.com/" },
-                { "name": "Linux", "link": "https://www.linux.org/" },
-                { "name": "GitHub Codespaces", "link": "https://github.com/features/codespaces" },
-                { "name": "MongoDB Atlas", "link": "https://www.mongodb.com/atlas" }
-            ]
-        },
-        {
-            "title": "BROWSERS AND IDE",
-            "skills": [
-                { "name": "Visual Studio Code", "link": "https://code.visualstudio.com/" },
-                { "name": "Arc Browser", "link": "https://arc.net/" },
-                { "name": "Polypane", "link": "https://polypane.app/" },
-                { "name": "IntelliJ IDEA", "link": "https://www.jetbrains.com/idea/" },
-                { "name": "WebStorm", "link": "https://www.jetbrains.com/webstorm/" },
-                { "name": "Eclipse", "link": "https://www.eclipse.org/" }
-            ]
-        }
-    ],
-    "education": [
-        {
-            "subject": "Cambridge IGCSE",
-            "degree": "High School",
-            "university": "Regent International School", 
-            "href": "",
-            "startDate": "2021", 
-            "endDate": "2023"
-        },
-        {
-            "subject": "Cambridge AS & Alevels",
-            "degree": "College",
-            "university": "Brickfeilds Asia College", 
-            "href": "",
-            "startDate": "2023", 
-            "endDate": "2024"
-        }
-    ],
-    "projects": [
-        {
-            "name": "Augmented Learning System",
-            "framework": "python",
-            "description": "ALS is a voice-controlled desktop assistant for AI-powered writing and system management.",
-            "href": "https://github.com/Juzcallmekaushik/Augmented-Learning-System",
-            "stars": "1"
-        },
-       {
-            "name": "r-igcse-bot",
-            "framework": "Typescript",
-            "description": "r/IGCSE Bot is a Typescript-powered Discord bot for the r/IGCSE community, featuring a rep system, leaderboard, server voting, auto-replies, moderation, reaction roles, and more.",
-            "href": "https://github.com/Sachin-dot-py/r-igcse-bot",
-            "stars": "4"
-       },
-        {
-            "name": "Developer Portfolio",
-            "framework": "Next.js",
-            "description": "My personal portfolio, built with Next.js and Tailwind CSS, showcases my work and skills in a clean, responsive, and modern two-column layout, designed for optimal user experience.",
-<<<<<<< Updated upstream
-<<<<<<<< Updated upstream:public/translations/en.json
-            "href": "https://github.com/Juzcallmekaushik/Juzcallmekaushik.github.io",
-========
-            "href": "https://github.com/Juzcallmekaushik/kaushikreddy.me/",
->>>>>>>> Stashed changes:out/translations/en.json
-=======
-            "href": "https://github.com/Juzcallmekaushik/kaushikreddy.me/",
->>>>>>> Stashed changes
-            "stars": "0"
-        } 
-    ]
-}
+        "education": [
+            {
+                "subject": "Cambridge IGCSE",
+                "degree": "High School",
+                "university": "Regent International School",
+                "href": "",
+                "startDate": "2021",
+                "endDate": "2023"
+            },
+            {
+                "subject": "Cambridge AS & Alevels",
+                "degree": "College",
+                "university": "Brickfeilds Asia College",
+                "href": "",
+                "startDate": "2023",
+                "endDate": "2024"
+            }
+        ],
+        "projects": [
+            {
+                "name": "Augmented Learning System",
+                "framework": "python",
+                "description": "ALS is a voice-controlled desktop assistant for AI-powered writing and system management.",
+                "href": "https://github.com/Juzcallmekaushik/Augmented-Learning-System",
+                "stars": "1"
+            },
+            {
+                "name": "r-igcse-bot",
+                "framework": "Typescript",
+                "description": "r/IGCSE Bot is a Typescript-powered Discord bot for the r/IGCSE community, featuring a rep system, leaderboard, server voting, auto-replies, moderation, reaction roles, and more.",
+                "href": "https://github.com/Sachin-dot-py/r-igcse-bot",
+                "stars": "4"
+            },
+            {
+                "name": "Developer Portfolio",
+                "framework": "Next.js",
+                "description": "My personal portfolio, built with Next.js and Tailwind CSS, showcases my work and skills in a clean, responsive, and modern two-column layout, designed for optimal user experience.",
+                "href": "https://github.com/Juzcallmekaushik/kaushikreddy.me/",
+                "stars": "0"
+            }
+        ],
+        "designs": [
+        ]
+    }

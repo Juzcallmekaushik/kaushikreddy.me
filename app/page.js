@@ -1,13 +1,11 @@
 import React from 'react';
 import About from "@/components/about";
-<<<<<<< Updated upstream
-=======
 import Top from "@/components/top";
->>>>>>> Stashed changes
 import Education from "@/components/education/education";
 import Skills from "@/components/skills/skills";
 import Header from "@/components/header";
 import Projects from '@/components/projects/projects';
+import Designs from '@/components/designs/designs';
 import Credits from '@/components/credits';
 import {promises as fs} from 'fs';
 
@@ -24,13 +22,11 @@ export default async function Home() {
           <Skills data={data.skills}></Skills>
           <Education data={data.education}></Education>
           <Projects data={data.projects}></Projects>
+          <Designs data={data.designs}></Designs>
           <Credits data={data.general}></Credits>
         </div>
       </div>
-<<<<<<< Updated upstream
-=======
       <Top data={data.top}></Top><Top />
->>>>>>> Stashed changes
     </main>
   )
 }

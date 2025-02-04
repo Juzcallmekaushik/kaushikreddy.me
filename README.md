@@ -35,8 +35,23 @@
 </h5>
 
 <p align="center">
+  Home Page:
   <img src="./public/Images/home-page.png" alt="Front Page"/>
+  
+  Contact Page:
   <img src="./public/Images/contact-page.png" alt="Front Page">
+
+  Design Section:
+  ![image](https://github.com/user-attachments/assets/259325a4-e193-4413-8927-daad40424af6)
+
+  Design Maximize:
+  ![image](https://github.com/user-attachments/assets/6176a6a4-756c-4e92-8356-f409735049fe)
+
+  Design Page:
+  ![image](https://github.com/user-attachments/assets/e9c88293-30cf-4477-97ca-55854754789b)
+
+  Projects Page:
+  ![image](https://github.com/user-attachments/assets/6a0fb13d-8e6e-4431-9fab-ee9ea63b2780)
 <p>
 
 <h1>

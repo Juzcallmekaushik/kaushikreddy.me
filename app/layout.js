@@ -5,13 +5,9 @@ import { usePathname } from "next/navigation";
 import Script from "next/script";
 import "./globals.css";
 import { Inter } from "next/font/google";
+import { metadata } from "./metadata"; // Import metadata separately
 
 const inter = Inter({ subsets: ["latin"] });
-
-export const metadata = {
-  title: "Kaushik Reddy",
-  description: "Fullstack Developer | Graphic Designer",
-};
 
 export default function RootLayout({ children }) {
   const pathname = usePathname();
@@ -26,6 +22,10 @@ export default function RootLayout({ children }) {
 
   return (
     <html lang="en">
+      <head>
+        <title>{metadata.title}</title>
+        <meta name="description" content={metadata.description} />
+      </head>
       {/* Google Analytics */}
       <Script
         strategy="afterInteractive"

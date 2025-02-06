@@ -8,7 +8,7 @@ function ProjectItem(props) {
             href={props.href}
             target="_blank"
             rel="noopener noreferrer"
-            className="group flex flex-col p-5 transition-all bg-surface-200 hover:scale-[1.02] brightness-75 hover:brightness-100 hover:z-10"
+            className="group flex flex-col p-5 transition-all bg-surface-200 hover:scale-[1.03] brightness-75 hover:brightness-100 hover:z-10"
         >
             <div className='text-surface-600 mb-4 flex flex-row items-center justify-between'>
                 <div className='flex flex-row items-center'>

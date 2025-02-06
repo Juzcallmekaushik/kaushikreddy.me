@@ -10,7 +10,7 @@ const Projects = ({ data }) => {
     return (
         <div data-section id="projects" className="mb-16">
             <h2 className="mb-2 font-bold text-2xl" style={{ fontFamily: 'Blatant, sans-serif' }}>
-                CODE PROJECTS
+                PROJECTS
             </h2>
 
             {data && data.length > 0 ? (

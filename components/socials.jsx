@@ -11,13 +11,13 @@ const Socials = (props) => {
             </a>
             <div className='flex flex-row'>
                 <a href={props.data.github} target="_blank" rel="noopener noreferrer" className="mr-0 flex flex-row content-center justify-center">
-                    <img src="/logos/github.png" alt="GitHub Logo" width={25} height={25} className='object-contain object-top mr-1' />
+                    <img src="/logos/github.png" alt="GitHub Logo" width={19} height={19} className='object-contain object-top mr-2' />
                 </a>
                 <a href={props.data.instagram} target="_blank" rel="noopener noreferrer" className="flex flex-row content-center justify-center">
-                    <img src="/logos/instagram.png" alt="Instagram Logo" width={25} height={25} className='object-contain object-top mr-1' />
+                    <img src="/logos/instagram.png" alt="Instagram Logo" width={19} height={19} className='object-contain object-top mr-2' />
                 </a>
                 <a href={props.data.discord} target="_blank" rel="noopener noreferrer" className="flex flex-row content-center justify-center">
-                    <img src="/logos/discord.png" alt="Discord Logo" width={25} height={25} className='object-contain object-top mr-1' />
+                    <img src="/logos/discord.png" alt="Discord Logo" width={19} height={19} className='object-contain object-top mr-2' />
                 </a>
             </div>
         </div>

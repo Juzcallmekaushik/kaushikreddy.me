@@ -86,9 +86,9 @@ export default function Contact() {
                             <img 
                                 src="/logos/github.png" 
                                 alt="GitHub Logo" 
-                                width="25" 
-                                height="25" 
-                                className="object-contain object-top mr-1" 
+                                width="19" 
+                                height="19" 
+                                className="object-contain object-top mr-2" 
                             />
                         </a>
                         <a 
@@ -100,9 +100,9 @@ export default function Contact() {
                             <img 
                                 src="/logos/instagram.png" 
                                 alt="Instagram Logo" 
-                                width="25" 
-                                height="25" 
-                                className="object-contain object-top mr-1" 
+                                width="19" 
+                                height="19" 
+                                className="object-contain object-top mr-2" 
                             />
                         </a>
                         <a 
@@ -114,9 +114,9 @@ export default function Contact() {
                             <img 
                                 src="/logos/discord.png" 
                                 alt="Discord Logo" 
-                                width="25" 
-                                height="25" 
-                                className="object-contain object-top mr-1" 
+                                width="19" 
+                                height="19" 
+                                className="object-contain object-top mr-2" 
                             />
                         </a>
                     </div>

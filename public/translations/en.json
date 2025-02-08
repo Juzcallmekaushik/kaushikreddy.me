@@ -72,22 +72,22 @@
         "projects": [
             {
                 "name": "Augmented Learning System",
-                "framework": "python",
-                "description": "ALS is a voice-controlled desktop assistant for AI-powered writing and system management. It helps automate tasks and manage your system using voice commands.",
+                "framework": [{"name": "Python"}, { "name": "MongoDB"}],
+                "description": "I developed ALS, a voice-controlled desktop assistant for AI-powered writing and system management. It automates tasks, and enhances system control through voice input.",
                 "href": "https://github.com/Juzcallmekaushik/Augmented-Learning-System",
                 "stars": "1"
             },
             {
                 "name": "r-igcse-bot",
-                "framework": "Typescript",
-                "description": "r/IGCSE Bot is a Typescript-powered Discord bot for the r/IGCSE community, featuring a rep system, leaderboard, server voting, auto-replies, moderation, reaction roles, and more.",
+                "framework": [{ "name": "Discord.js" }, { "name": "MongoDB" }],
+                "description": "I built key features for the r/IGCSE bot, including GoStudy, lock channels, and random past paper, while also fixing commands and making improvements.",
                 "href": "https://github.com/Sachin-dot-py/r-igcse-bot",
                 "stars": "4"
             },
             {
                 "name": "Minimalistic Portfolio",
-                "framework": "Next.js",
-                "description": "My personal portfolio, built with Next.js and Tailwind CSS, showcases my work and skills in a clean, responsive, and modern two-column layout, designed for optimal user experience.",
+                "framework": [{ "name": "Next.js" }, { "name": "TailwindCSS" }],
+                "description": "I built my personal portfolio using Next.js and Tailwind CSS, featuring a clean, responsive two-column layout that highlights my work and skills with a focus on user experience.",
                 "href": "https://github.com/Juzcallmekaushik/kaushikreddy.me/",
                 "stars": "0"
             }

@@ -21,13 +21,12 @@ export default function Projects() {
             </button>
 
             {en.projects && en.projects.length > 0 ? (
-                <div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-4 lg:grid-cols-2 gap-3 mt-12">
+                <div className="flex flex-col sm:grid sm:grid-cols-2 md:grid-cols-4 lg:grid-cols-2 gap-3 mt-12">
                     {en.projects.map((project, index) => (
                         <ProjectItem
                             key={index}
                             href={project.href}
-                            stars={project.stars}
-                            lib={project.framework}
+                            libs={project.framework}
                             name={project.name}
                             description={project.description}
                         />

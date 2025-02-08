@@ -15,15 +15,14 @@ const Projects = ({ data }) => {
 
             {data && data.length > 0 ? (
                 <>
-                    <div className="grid grid-cols-2 gap-2">
+                    <div className="space-y-2">
                         {data.slice(0, 4).map((object) => (
                             <ProjectItem
                                 key={object.name}
                                 name={object.name}
-                                stars={object.stars}
-                                lib={object.framework}
                                 description={object.description}
                                 href={object.href}
+                                libs={object.framework}
                             />
                         ))}
                     </div>

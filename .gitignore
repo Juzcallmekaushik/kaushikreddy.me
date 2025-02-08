@@ -4,6 +4,7 @@
 out
 node_modules
 .DS_Store
+store.txt
 .github
 
 ## Ignore Visual Studio temporary files, build results, and

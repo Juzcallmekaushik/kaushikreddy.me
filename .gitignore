@@ -405,3 +405,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+public/images-test/image1.jpg
+public/images-test/image2.jpg
+public/images-test/image3.jpg
+public/images-test/image4.jpg

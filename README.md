@@ -36,7 +36,7 @@
 
 <p align="center">
   Home Page:
-  ![image](https://github.com/user-attachments/assets/81fcd40b-c8bb-4e14-8551-818b334fa82f)
+  ![image](https://github.com/user-attachments/assets/ed878fb3-507f-4343-8bdf-32bddb14f9b3)
 
   Contact Page:
   ![image](https://github.com/user-attachments/assets/0bad76bf-44b0-4c10-a995-5c1b6571b2cb)

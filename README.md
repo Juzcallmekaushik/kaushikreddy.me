@@ -36,10 +36,10 @@
 
 <p align="center">
   Home Page:
-  <img src="./public/Images/home-page.png" alt="Front Page"/>
-  
+  ![image](https://github.com/user-attachments/assets/81fcd40b-c8bb-4e14-8551-818b334fa82f)
+
   Contact Page:
-  <img src="./public/Images/contact-page.png" alt="Front Page">
+  ![image](https://github.com/user-attachments/assets/0bad76bf-44b0-4c10-a995-5c1b6571b2cb)
 
   Design Section:
   ![image](https://github.com/user-attachments/assets/259325a4-e193-4413-8927-daad40424af6)

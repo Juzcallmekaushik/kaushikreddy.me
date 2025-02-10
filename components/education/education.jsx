@@ -9,7 +9,7 @@ const Education = (props) => {
                 return <EducationItem
                     key={`${object.subject}+${object.startDate}`}  
                     subject={object.subject}
-                    degree={object.degree}
+                    level={object.level}
                     university={object.university}
                     startDate={object.startDate} 
                     endDate={object.endDate ? object.endDate : ''} 

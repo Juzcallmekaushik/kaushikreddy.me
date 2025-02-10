@@ -54,7 +54,7 @@
         "education": [
             {
                 "subject": "Cambridge IGCSE",
-                "degree": "High School",
+                "level": "Secondary Education",
                 "university": "Regent International School",
                 "href": "",
                 "startDate": "2021",
@@ -62,7 +62,7 @@
             },
             {
                 "subject": "Cambridge AS & Alevels",
-                "degree": "College",
+                "level": "Pre-University",
                 "university": "Brickfeilds Asia College",
                 "href": "",
                 "startDate": "2023",

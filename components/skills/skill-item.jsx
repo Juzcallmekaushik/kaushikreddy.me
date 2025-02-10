@@ -12,7 +12,7 @@ function SkillItem({ title, skills = [] }) {
                             href={skill.link} 
                             target="_blank" 
                             rel="noopener noreferrer"
-                            className='bg-surface-400 py-1 px-3 rounded-full text-xs transition-all hover:bg-surface-500 hover:text-white'
+                            className='bg-surface-200 py-1 px-3 rounded-md text-xs transition-all hover:bg-surface-300 hover:text-white'
                         >
                             {skill.name}
                         </a>

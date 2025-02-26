@@ -26,7 +26,8 @@
                     { "name": "HTML", "link": "https://developer.mozilla.org/en-US/docs/Web/HTML" },
                     { "name": "Figma", "link": "https://www.figma.com/" },
                     { "name": "CSS", "link": "https://developer.mozilla.org/en-US/docs/Web/CSS" },
-                    { "name": "Node.js", "link": "https://nodejs.org/" }
+                    { "name": "Node.js", "link": "https://nodejs.org/" },
+                    { "name": "Flutter", "link": "https://flutter.dev/" }
                 ]
             },
             {
@@ -36,7 +37,9 @@
                     { "name": "Android", "link": "https://www.android.com/" },
                     { "name": "Linux", "link": "https://www.linux.org/" },
                     { "name": "GitHub Codespaces", "link": "https://github.com/features/codespaces" },
-                    { "name": "MongoDB Atlas", "link": "https://www.mongodb.com/atlas" }
+                    { "name": "MongoDB Atlas", "link": "https://www.mongodb.com/atlas" },
+                    { "name": "Firebase", "link": "https://firebase.google.com/" },
+                    { "name": "Supabase", "link": "https://supabase.com/" }
                 ]
             },
             {

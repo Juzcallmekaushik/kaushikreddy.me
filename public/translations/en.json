@@ -74,22 +74,25 @@
                 "name": "Augmented Learning System",
                 "framework": [{"name": "Python"}, { "name": "MongoDB"}],
                 "description": "I developed ALS, a voice-controlled desktop assistant for AI-powered writing and system management. It automates tasks, and enhances system control through voice input.",
-                "href": "https://github.com/Juzcallmekaushik/Augmented-Learning-System",
-                "stars": "1"
+                "href": "https://github.com/Juzcallmekaushik/Augmented-Learning-System"
             },
             {
                 "name": "r-igcse-bot",
                 "framework": [{ "name": "Discord.js" }, { "name": "MongoDB" }],
                 "description": "I built key features for the r/IGCSE bot, including GoStudy, lock channels, and random past paper, while also fixing commands and making improvements.",
-                "href": "https://github.com/Sachin-dot-py/r-igcse-bot",
-                "stars": "4"
+                "href": "https://github.com/Sachin-dot-py/r-igcse-bot"
             },
             {
                 "name": "Minimalistic Portfolio",
                 "framework": [{ "name": "Next.js" }, { "name": "TailwindCSS" }],
                 "description": "I built my personal portfolio using Next.js and Tailwind CSS, featuring a clean, responsive two-column layout that highlights my work and skills with a focus on user experience.",
-                "href": "https://github.com/Juzcallmekaushik/kaushikreddy.me/",
-                "stars": "0"
+                "href": "https://github.com/Juzcallmekaushik/kaushikreddy.me/"
+            },
+            {
+                "name": "AceTrack",
+                "framework": [{ "name": "Flutter" }, { "name": "React Native" },{ "name": "Firebase" }],
+                "description": "AceTrack is a mobile app (in development) for seamless attendance tracking and efficient form submission. Launching in 2026!",
+                "href": ""
             }
         ],
         "designs": [

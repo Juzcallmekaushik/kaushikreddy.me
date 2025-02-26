@@ -92,7 +92,7 @@
             },
             {
                 "name": "AceTrack",
-                "framework": [{ "name": "Flutter" }, { "name": "React Native" },{ "name": "Firebase" }],
+                "framework": [{ "name": "Flutter" },  { "name": "Firebase" }],
                 "description": "AceTrack is a mobile app (in development) for seamless attendance tracking and efficient form submission. Launching in 2026!",
                 "href": ""
             }

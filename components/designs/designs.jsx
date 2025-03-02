@@ -9,7 +9,7 @@ const Designs = ({ data }) => {
 
     return (
         <div data-section id="designs" className="mb-16">
-            <h2 className="mb-2 font-bold text-2xl" style={{ fontFamily: 'Blatant, sans-serif' }}>
+            <h2 className='mb-2 visible lg:visible font-black text-xl font-montserrat'>
                 DESIGNS
             </h2>
 

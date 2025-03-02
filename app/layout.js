@@ -1,11 +1,11 @@
-"use client"; // Required for client-side effects
+"use client";
 
 import { useEffect } from "react";
 import { usePathname } from "next/navigation";
 import Script from "next/script";
 import "./globals.css";
 import { Inter } from "next/font/google";
-import { metadata } from "./metadata"; // Import metadata separately
+import { metadata } from "./metadata";
 
 const inter = Inter({ subsets: ["latin"] });
 

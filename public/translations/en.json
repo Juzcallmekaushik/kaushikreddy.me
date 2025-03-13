@@ -98,5 +98,8 @@
             }
         ],
         "designs": [
+            {
+                "image": "/designs/VMANightPoster.png"
+            }
         ]
     }

@@ -56,7 +56,7 @@ const DesignItem = ({ imageSrc }) => {
                         >
                             <img
                                 src={imageSrc}
-                                alt="Full Design"
+                                alt="Graphic Design"
                                 className="max-w-[90vw] max-h-[80vh] object-contain shadow-lg pointer-events-auto"
                             />
                         </motion.div>

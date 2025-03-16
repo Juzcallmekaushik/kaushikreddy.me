@@ -92,7 +92,7 @@
             },
             {
                 "name": "AceTrac",
-                "framework": [{ "name": "Flutter" },  { "name": "Firebase" }],
+                "framework": [{ "name": "ReactNative" },  { "name": "Firebase" }],
                 "description": "AceTrac is a mobile app (in development) for seamless attendance tracking and efficient form submission. Launching in 2026!",
                 "href": "https://acetrac.kaushikreddy.me"
             }

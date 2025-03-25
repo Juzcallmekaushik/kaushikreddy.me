@@ -52,7 +52,7 @@
   ![image](https://github.com/user-attachments/assets/e9c88293-30cf-4477-97ca-55854754789b)
 
   Projects Page:
-  ![image](![image](https://github.com/user-attachments/assets/5f8dcee0-dc46-4f64-a138-846fa42b15c8))
+  ![image](https://github.com/user-attachments/assets/5f8dcee0-dc46-4f64-a138-846fa42b15c8)
 <p>
 
 <h1>

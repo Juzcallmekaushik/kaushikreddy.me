@@ -90,10 +90,9 @@
                 "href": "https://github.com/Juzcallmekaushik/kaushikreddy.me/"
             },
             {
-                "name": "AceTrac",
+                "name": "VAM",
                 "framework": [{ "name": "ReactNative" },  { "name": "Firebase" }],
-                "description": "AceTrac is a mobile app (in development) for seamless attendance tracking and efficient form submission. Launching in 2026!",
-                "href": "https://acetrac.kaushikreddy.me"
+                "description": "VAM is a mobile app in development for hassle-free attendance tracking and smooth form submissions, launching in 2026!"
             }
         ],
         "designs": [

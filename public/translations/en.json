@@ -18,7 +18,6 @@
                 "title": "FRAMEWORKS & LANGUAGES",
                 "skills": [
                     { "name": "Python", "link": "https://www.python.org/" },
-                    { "name": "Flutter", "link": "https://flutter.dev/" },
                     { "name": "NextJS", "link": "https://nextjs.org/" },
                     { "name": "React", "link": "https://react.dev/" },
                     { "name": "HTML", "link": "https://developer.mozilla.org/en-US/docs/Web/HTML" },
@@ -88,6 +87,12 @@
                 "framework": [{ "name": "Next.js" }, { "name": "TailwindCSS" }],
                 "description": "I built my personal portfolio using Next.js and Tailwind CSS, featuring a clean, responsive two-column layout that highlights my work and skills with a focus on user experience.",
                 "href": "https://github.com/Juzcallmekaushik/kaushikreddy.me/"
+            },
+            {
+                "name": "KVRS v1.0",
+                "framework": [{ "name": "Next.js" },  { "name": "Supabase" }, { "name": "TailwindCSS" }],
+                "description": "Kasturi Vijayam Registration Site (KVRS) is a registration site for kasturi vijayam events!",
+                "href": "https://registration.kasturivijayam.com"
             },
             {
                 "name": "VAM",

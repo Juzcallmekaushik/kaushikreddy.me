@@ -6,6 +6,7 @@ import Script from "next/script";
 import "./globals.css";
 import { Inter } from "next/font/google";
 import { metadata } from "./metadata";
+import { Analytics } from "@vercel/analytics/next"
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -38,7 +39,6 @@ export default function RootLayout({ children }) {
           `}
         </style>
       </head>
-      {/* Google Analytics */}
       <Script
         strategy="afterInteractive"
         src="https://www.googletagmanager.com/gtag/js?id=G-1NE5SV7M4V"
@@ -54,7 +54,10 @@ export default function RootLayout({ children }) {
         `}
       </Script>
 
-      <body className={inter.className}>{children}</body>
+      <body className={inter.className}>
+        {children}
+        <Analytics />
+      </body>
     </html>
   );
 }

@@ -1,5 +1,5 @@
 export const metadata = {
-    title: "Kaushik Reddy",
-    description: "Fullstack Developer | Graphic Designer",
+    title: "Kaushik Reddy (Archived)",
+    description: "v1 of my portfolio",
   };
   
